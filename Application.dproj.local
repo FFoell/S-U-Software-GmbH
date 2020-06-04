@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="AndroidEmulator"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.113,C:\Users\PC Klinik\Desktop\App\HeaderFooterTemplate.fmx=C:\Users\PC Klinik\Desktop\App\Login.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,C:\Users\PC Klinik\Desktop\App\Unit1.pas=C:\Users\PC Klinik\Desktop\App\LogoFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,C:\Users\PC Klinik\Desktop\App\Unit1.fmx=C:\Users\PC Klinik\Desktop\App\LogoFrame.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,C:\Users\PC Klinik\Desktop\App\HeaderFooterTemplate.pas=C:\Users\PC Klinik\Desktop\App\Login.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,C:\Users\PC Klinik\Desktop\App\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,C:\Users\PC Klinik\Desktop\App\Unit3.pas=C:\Users\PC Klinik\Desktop\App\HintergrundFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,=C:\Users\PC Klinik\Desktop\App\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,C:\Users\PC Klinik\Desktop\App\LogoFrame.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,C:\Users\PC Klinik\Desktop\App\HeaderFooterApplication.dproj=C:\Users\PC Klinik\Desktop\App\Application.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,C:\Users\PC Klinik\Desktop\App\Unit3.fmx=C:\Users\PC Klinik\Desktop\App\HintergrundFrame.fmx</Transaction>
+    <Transaction>2020.06.04 17:49:39.075,C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\Application.dproj=C:\Users\PC Klinik\Desktop\App\Application.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
