@@ -1,0 +1,15 @@
+program Applikation;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  Login in 'Login.pas' {Form4},
+  ZeitarbeitApp in 'ZeitarbeitApp.pas' {Frame1: TFrame};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm4, Form4);
+  Application.Run;
+end.

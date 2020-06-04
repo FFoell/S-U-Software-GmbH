@@ -1,0 +1,14 @@
+program Application;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  Login in 'Login.pas' {Form1},
+  LoginFrame in 'LoginFrame.pas' {Frame1: TFrame},
+
+
+{$R *.res}
+
+begin
+
+end.

@@ -4,45 +4,23 @@ interface
 
 uses
   System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
-  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.Dialogs, FMX.StdCtrls,
-  FMX.Controls.Presentation, FMX.Layouts, FMX.Objects, FMX.Ani,
-  FMX.ScrollBox, FMX.Memo, HintergrundFrame;
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, LoginFrame;
 
 type
-  TLoginLaout = class(TForm)
-    Header: TToolBar;
-    Footer: TToolBar;
-    title: TLabel;
-    Text1: TText;
-    Text2: TText;
-    Frame31: TFrame3;
-    Image1: TImage;
-    Benutzername: TMemo;
-    Passwort: TMemo;
-
-
+  TForm1Login = class(TForm)
+    Frame11: TFrame1;
+    StyleBook1: TStyleBook;
   private
-    { Private declarations }
+    { Private-Deklarationen }
   public
-    { Public declarations }
+    { Public-Deklarationen }
   end;
 
 var
-  LoginLaout: TLoginLaout;
-    Color: TColor;
+  Form1Login: TForm1Login;
 
 implementation
 
 {$R *.fmx}
-{$R *.NmXhdpiPh.fmx ANDROID}
-{$R *.SmXhdpiPh.fmx ANDROID}
-{$R *.LgXhdpiPh.fmx ANDROID}
-
-begin
-
-
-begin
-
-end;
 
 end.
